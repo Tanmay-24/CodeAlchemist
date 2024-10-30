@@ -1,1 +1,0 @@
-from .gitignore_template import GitIgnoreTemplate

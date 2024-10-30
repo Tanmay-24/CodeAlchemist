@@ -1,1 +1,0 @@
-from .pre_commit_hook_template import PreCommitHookTemplate

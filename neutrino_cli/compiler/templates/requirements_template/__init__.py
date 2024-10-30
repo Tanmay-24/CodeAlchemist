@@ -1,1 +1,0 @@
-from .requirements_template import RequirementsTemplate
